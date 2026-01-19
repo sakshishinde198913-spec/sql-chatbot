@@ -1,0 +1,9 @@
+flask
+python-dotenv
+sqlalchemy
+pymysql
+pandas
+matplotlib
+langchain
+langchain-community
+langchain-openai
