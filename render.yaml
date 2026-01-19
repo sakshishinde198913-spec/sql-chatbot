@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: ai-sql-chat-assistant
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    envVars:
+      - key: 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
+        sync: false
