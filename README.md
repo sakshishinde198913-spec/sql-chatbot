@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an **AI-assisted SQL chat application** that allows users to interact with a relational database using **plain English instead of writing SQL manually**.
+This project is an **AI-assisted SQL chat application** that allows users to interact with a relational database using **plain English instead of writing complicated SQL manually**.
 
 The core idea is simple:  
 **make database querying accessible to non-technical users without hiding SQL itself.**
